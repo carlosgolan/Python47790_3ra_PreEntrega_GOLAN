@@ -16,6 +16,10 @@ El concepto de la web diseñada es el de un creador y buscador de cursos.
 ## Administrador:
 
 >> http://127.0.0.1:8000/admin/
+>> 
 Usuario: admin
+
 Pass: 123
+
 Email: admin@admin.com
+
